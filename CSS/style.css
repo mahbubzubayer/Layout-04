@@ -1,0 +1,38 @@
+*{
+                    margin: 0%;
+                }
+                header{
+                    width: 100%;
+                    height: 150px;
+                    background-color: cadetblue;
+                    color: sienna;
+                    text-align: center;
+                }
+                .bod{
+                    overflow: hidden;
+                }
+                .menu{
+                    width: 25%;
+                    height: 600px;
+                    background-color: rgb(52, 148, 151);
+                    color: sienna;
+                    text-align: center;
+                    float: left;
+                
+                }
+                .body{
+                    width: 75%;
+                    height: 600px;
+                    background-color: rgb(129, 191, 193);
+                    color: sienna;
+                    text-align: center;
+                    float: right;
+                }
+                footer{
+                    width: 100%;
+                    height: 80px;
+                    background-color: rgb(34, 77, 78);
+                    color: sienna;
+                    text-align: center;
+                
+                }
